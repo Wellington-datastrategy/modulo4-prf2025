@@ -1,7 +1,7 @@
 
 # Decisões de tratamento — Módulo 4
 
-Data de geração: 2026-08-06 13:59
+Data de geração: 2026-08-10 19:07
 
 ## Principais decisões
 
