@@ -1,0 +1,7 @@
+﻿tema;decisao;justificativa
+Base original;Preservar o CSV bruto sem alterações.;Manter rastreabilidade e permitir reprodução do processo.
+Valores ausentes;Não excluir registros automaticamente por ausência de valores.;Evitar perda de ocorrências e manter a cobertura da base.
+Variável-alvo;Criar acidente_fatal a partir de mortos >= 1.;Definir de forma objetiva os acidentes com pelo menos uma morte.
+BR;Criar br_formatada para padronização da identificação das rodovias.;Facilitar agrupamentos, filtros e análises.
+Localidade;Criar chave_localidade combinando UF, município e BR formatada.;Facilitar identificação e reutilização analítica.
+Data leakage;Evitar o uso de variáveis que participam diretamente da definição do alvo na base modelável.;Reduzir risco de vazamento de informação para futuras etapas de modelagem.
